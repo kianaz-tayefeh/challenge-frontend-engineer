@@ -1,0 +1,12 @@
+{
+	"loginUrl": "http://localhost:5173",
+	"orderDetailsUrl": "http://localhost:5173/order-details",
+	"loginTitle": "Track your order",
+	"orderNumber": "0000RTAB1",
+	"zipCode": "60156",
+	"orderNumberRequiredError": "Order number is required",
+	"zipCodeRequiredError": "Zip code is required",
+	"wrongOrderNumber": "wrongorder",
+	"wrongZipCode": "wrongzip",
+	"serverError": "Order number or zip code is wrong"
+}
