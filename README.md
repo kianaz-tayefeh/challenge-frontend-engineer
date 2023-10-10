@@ -1,8 +1,8 @@
 # Order-Trace
 
-Log in using the order-number to access the order progress and tracking information
+Log in using the order-number to access the order progress
 
-### Getting Started with Create Vite App
+Getting Started with Create Vite App
 
 TypeScript + React
 
