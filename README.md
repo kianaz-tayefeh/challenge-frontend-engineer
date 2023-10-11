@@ -28,9 +28,10 @@ Zip Code: 60156
 ### `npx cypress open` 
 
 ## Packages
+- `Jotai`
 - `react-router-dom`
 - `react-hook-form`
-- `yup`
+- `react-query`
 - `tailwind css`
 
 ## Code style:
